@@ -1,0 +1,22 @@
+$NetBSD$
+
+SHA1 (patch-src_debug_ee_controller.h) = f1a11bdadd82b706d37236cf41d629aee247cd86
+SHA1 (patch-src_debug_ee_debugger.h) = 4f93c0da59999e326bfec29b57a202acf0341309
+SHA1 (patch-src_pal_inc_pal__char16.h) = 205f6a8533838c192b36bbb00155da1b02e0f629
+SHA1 (patch-src_pal_src_CMakeLists.txt) = 7f5b7e7f669efa42fb1bc230949e508a0df080ed
+SHA1 (patch-src_pal_src_cruntime_file.cpp) = 315ad5db53ef2b893a77aa131ce97999214e0e11
+SHA1 (patch-src_pal_src_debug_debug.cpp) = 0d6bee5d2896de64effafa01d2e2989de82c76fc
+SHA1 (patch-src_pal_src_exception_seh-unwind.cpp) = 64a221a2f57b6654cae73a2aba0b59daf33b8224
+SHA1 (patch-src_pal_src_exception_signal.cpp) = ba0cabad71792a0108ffd9ec29254751f1e95997
+SHA1 (patch-src_pal_src_include_pal_synchcache.hpp) = 7ace14659295f07fd62e0d2a5f2b2d55541debfb
+SHA1 (patch-src_pal_src_thread_context.cpp) = c982763c5b6c9905fd1f14b1271baae5a2fbf052
+SHA1 (patch-src_pal_tests_palsuite_c__runtime_sscanf_test4_test4.c) = 01e8f755465d5d9e2beb7333d711759c75c3a9a7
+SHA1 (patch-src_pal_tests_palsuite_c__runtime_sscanf_test5_test5.c) = 94c430a39f26663cca6cdae78548e7b4d776b88f
+SHA1 (patch-src_pal_tests_palsuite_c__runtime_sscanf_test6_test6.c) = 2f5f1eb383c460b9c3ae7200466da83b50e3f1ee
+SHA1 (patch-src_pal_tests_palsuite_c__runtime_sscanf_test7_test7.c) = 9d1b59c46576c5749e1fd69863fe98885077a6e7
+SHA1 (patch-src_pal_tests_palsuite_c__runtime_sscanf_test8_test8.c) = 1f6cdd3d4b519c066243daf63a38ebb80e4387ed
+SHA1 (patch-src_pal_tests_palsuite_c__runtime_swscanf_test4_test4.c) = 199b35febf3131498b40732d9f2ac930fd69c24c
+SHA1 (patch-src_pal_tests_palsuite_c__runtime_swscanf_test5_test5.c) = b3d756b032fc0a5df3bbd79bd4b360b966f2536c
+SHA1 (patch-src_pal_tests_palsuite_c__runtime_swscanf_test6_test6.c) = b34a7ff156a208e4d2fb7d5be1fad00a056b1dd3
+SHA1 (patch-src_pal_tests_palsuite_c__runtime_swscanf_test7_test7.c) = c9c466c9bf16d92cbc49edd7871ef49df8b5d7e8
+SHA1 (patch-src_pal_tests_palsuite_c__runtime_swscanf_test8_test8.c) = 308f4de7dc624572db2090e4b1c81b3ee4a6d902

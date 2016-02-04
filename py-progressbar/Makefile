@@ -1,12 +1,12 @@
-# $NetBSD: Makefile,v 1.1 2014/06/09 23:15:39 jihbed Exp $
+# $NetBSD$
 
-DISTNAME=	progressbar2-2.6.2
+DISTNAME=	progressbar-2.3
 PKGNAME=	${PYPKGPREFIX}-${DISTNAME}
 CATEGORIES=	misc python
-MASTER_SITES=	https://pypi.python.org/packages/source/p/progressbar2/
+MASTER_SITES=	${MASTER_SITE_PYPI:=p/progressbar/}
 
 MAINTAINER=	kamelderouiche@yahoo.com
-HOMEPAGE=	https://github.com/WoLpH/python-progressbar
+HOMEPAGE=	http://code.google.com/p/python-progressbar
 COMMENT=	Text progress bar library for Python
 LICENSE=	gnu-lgpl-v3 AND modified-bsd
 
